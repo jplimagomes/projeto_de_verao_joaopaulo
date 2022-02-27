@@ -11,5 +11,7 @@ input: contém todas as bases de dados que utilizei no projeto (a maior parte fo
 
 output: contém todos os dados obtidos após a manipulação com o código, bem como dois gráficos e uma tabela agregadora de todos os resultados
 
+product: um relatório reunindo os objetivos do projeto, metodologia, descrição dos dados e discussão dos resultados
 
 
+########################################################################################
